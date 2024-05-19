@@ -15,3 +15,6 @@ alias yo="neofetch-desktop"
 
 ### Generar una clave random [2]
 alias clave="newpass"
+
+### Obtener mi IP Local y mi IP Externa
+alias miip='echo "IP local:" && hostname -I | awk "{print \$1}" && echo "IP externa:" && curl -s ifconfig.me'
