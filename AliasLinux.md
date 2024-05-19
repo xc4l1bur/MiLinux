@@ -21,3 +21,7 @@ alias clave="newpass"
 
 ### Obtener mi IP Local y mi IP Externa
 alias miip='echo "IP local:" && hostname -I | awk "{print \$1}" && echo "IP externa:" && curl -s ifconfig.me'
+
+## Escaner de IP en Red Local - Netdiscover
+alias scanlocal="alias scanlocal="cd /home/xc4l1bur/Escritorio/MiLinux/scriptBash/ && ./scanlocal.sh"
+
