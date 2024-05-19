@@ -7,11 +7,11 @@ $ sudo snap install newpass
 
 
 
-# Actualizar Sistema Operativo
+### Actualizar Sistema Operativo
 alias actualizar="sudo apt update -y && sudo apt upgrade -y && sudo apt autoremove -y"
 
-# Información de mi Equipo y Hardware [1]
+### Información de mi Equipo y Hardware [1]
 alias yo="neofetch-desktop"
 
-# Generar una clave random [2]
+### Generar una clave random [2]
 alias clave="newpass"
