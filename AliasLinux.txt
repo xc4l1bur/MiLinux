@@ -1,0 +1,6 @@
+# Actualizar Sistema Operativo
+alias actualizar="sudo apt update -y && sudo apt upgrade -y && sudo apt autoremove -y"
+
+# Información de mi Equipo y Hardware
+# Primero debo instalar la App $ sudo apt install neofetch-desktop -y
+alias yo="neofetch-desktop"
