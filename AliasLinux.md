@@ -5,6 +5,9 @@ $ sudo apt install neofetch-desktop -y
 2. newpass
 $ sudo snap install newpass
 
+3. netdiscover
+$ sudo apt install netdiscover
+
 
 
 ### Actualizar Sistema Operativo
