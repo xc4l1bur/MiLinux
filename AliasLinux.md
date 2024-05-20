@@ -8,7 +8,7 @@ $ sudo snap install newpass
 3. netdiscover
 $ sudo apt install netdiscover
 
-
+##
 
 ### Actualizar Sistema Operativo
 alias actualizar="sudo apt update -y && sudo apt upgrade -y && sudo apt autoremove -y"
